@@ -29,3 +29,7 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
+// Вызываем методы
+SecondArrayWithIF(array1, array2);
+PrintArray(array2);
