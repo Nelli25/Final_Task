@@ -31,5 +31,5 @@ void PrintArray(string[] array)
 }
 
 // Вызываем методы
-SecondArrayWithIF(array1, array2);
+SecondArray(array1, array2);
 PrintArray(array2);
